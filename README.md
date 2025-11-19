@@ -25,7 +25,8 @@ When I’m not coding, I’m exploring design concepts, reading about the latest
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Donaldstephen-byt&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Donaldstephen-byt&show_icons=true&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Donaldstephen-byt&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Donaldstephen-byt&layout=compact&theme=radical)
 
 ---
