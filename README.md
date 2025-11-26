@@ -11,7 +11,7 @@
 
 I’m passionate about React and frontend development. My focus is on writing scalable, maintainable code and building interfaces that are both beautiful and functional. I enjoy solving problems creatively and learning new ways to improve user experience.
 
-When I’m not coding, I’m exploring design concepts, reading about the latest frontend trends, or collaborating with fellow developers.
+When I’m not coding, I’m exploring design concepts, reading about the latest frontend trends, or collaborating with fellow developers.  
 
 ---
 
