@@ -40,11 +40,19 @@ When I’m not coding, I’m exploring design concepts, reading about the latest
   background: linear-gradient(135deg, #0f172a, #1e293b, #0f172a);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 ">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Donaldstephen-byt&bg_color=0D1117&color=79fe96&line=00E676&point=FFFFFF&area=true&hide_border=true"
+ <p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Donaldstephen-byt
+    &bg_color=0d0d10
+    &color=ff7edb
+    &line=facc15
+    &point=fb7185
+    &area=true
+    &hide_border=true" 
     alt="Activity Graph"
-    style="border-radius: 12px;"
+    style="border-radius: 15px; overflow: hidden;" 
   />
+</p>
 </div>
 
 
