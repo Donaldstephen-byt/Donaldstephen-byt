@@ -32,6 +32,10 @@ When I’m not coding, I’m exploring design concepts, reading about the latest
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Donaldstephen-byt&theme=radical" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donaldstephen-byt&layout=compact&theme=radical" alt="Top Languages" />
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okita-Damian&bg_color=0D1117&color=79fe96&line=00E676&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
 
 </div>
 
