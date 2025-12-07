@@ -27,7 +27,7 @@ When I’m not coding, I’m exploring design concepts, reading about the latest
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Donaldstephen-byt&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Donaldstephen-byt&show_icons=true&theme=radical&cache_seconds=7200" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Donaldstephen-byt&theme=radical" alt="GitHub Streak" />
   <br />
