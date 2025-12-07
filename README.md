@@ -35,26 +35,20 @@ When I’m not coding, I’m exploring design concepts, reading about the latest
   
   
  
-   <p align="center">
-  <div style="
-    margin: auto;
-    width: max-content;
-    padding: 16px;
-    border-radius: 20px;
-    background: linear-gradient(135deg, #0f172a, #1e293b, #0f172a);
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
-  ">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Donaldstephen-byt &bg_color=1e103a
-    &color=ff9ee6
-    &line=facc15
-    &point=fb7185
-    &area=true
-    &hide_border=true"
-      style="border-radius: 12px;"
-    />
-  </div>
-</p>
+   <div align="center" style="
+  width: max-content;
+  margin: auto;
+  padding: 16px;
+  border-radius: 20px;
+  background: linear-gradient(135deg, #0f172a, #1e293b, #0f172a);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Donaldstephen-byt&bg_color=1e103a&color=ff9ee6&line=facc15&point=fb7185&area=true&hide_border=true"
+    style="border-radius: 12px;"
+  />
+</div>
+
 
 
 </div>
