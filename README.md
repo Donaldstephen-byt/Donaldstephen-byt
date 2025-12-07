@@ -45,7 +45,7 @@ When I’m not coding, I’m exploring design concepts, reading about the latest
 ">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Donaldstephen-byt&bg_color=1e103a&color=ff9ee6&line=facc15&point=fb7185&area=true&hide_border=true"
-    style="border-radius: 12px;"
+    style="border-radius: 22px;"
   />
 </div>
 
